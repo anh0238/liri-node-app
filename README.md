@@ -12,8 +12,8 @@ This application is useful for users, as it helps to keep them informed with the
 ## How can users get started with this project?
 Users can utilize this application by opening this up in their terminal and running any of the following commands:
  * node liri.js concert-this <artist/band name here>
- * node liri.js spotify-this-song <song name here>
- * node liri.js movie-this <movie name here>
+ * node liri.js spotify-this-song <song/name here>
+ * node liri.js movie-this <movie name/here>
  * node liri.js do-what-it-says
 
 ## Where can users can get help with this project?
