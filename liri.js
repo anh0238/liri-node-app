@@ -10,7 +10,9 @@ var request = require("request");
 
 //var fs = require("fs");
 
-var spotify = new Spotify(keys.spotify);
+var spotifyApi = require('node-spotify-api');
+
+var spotify = new Spotify(keys.spotifyApi);
 
 
 // concert-this
